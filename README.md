@@ -33,6 +33,7 @@
 
 - 📜 **AICS® ASTFC** (Accredited Software Testing Fundamentals Certification)
 - 🎓 En curso: **Ingeniería de Software** (Universidad de Cartagena)
+- 🎓 En curso: **Desarrollo Web Full Stack** (Ministerio de las TIC)
 - 🎓 **Especialista en Gerencia del Talento Humano** (Universidad Cooperativa de Colombia)
 - 🎓 **Administrador en Salud** (Universidad de Córdoba)
 
