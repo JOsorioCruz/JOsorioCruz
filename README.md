@@ -53,7 +53,7 @@
 # 📫 Contacto
 
 ¿Interesado en colaborar o saber más sobre mi experiencia? No dudes en contactarme:
-
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:osoriocruzjairo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-osorio-c-8461061b3/)
 
 
