@@ -50,7 +50,7 @@
 - 📝 Creación de planes de pruebas y estrategias de calidad.
 - 📊 Elaboración de Reportes con 
 
-## 📫 Contacto
+# 📫 Contacto
 
 ¿Interesado en colaborar o saber más sobre mi experiencia? No dudes en contactarme:
 
