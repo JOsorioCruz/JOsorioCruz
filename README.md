@@ -15,7 +15,7 @@
 - **Herramientas de API**: ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SoapUI](https://img.shields.io/badge/-SoapUI-FCDC00?style=flat&logo=soap&logoColor=black)
 - **Control de Versiones**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - **Diseño UI/UX**: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- **Reportes**: ![Allure Report](https://img.shields.io/badge/-Allure%20Report-C21325?style=flat&logo=allure&logoColor=white)  ![Cucumber Report](https://img.shields.io/badge/-Cucumber%20Report-23D96C?style=flat&logo=cucumber&logoColor=white)
+- **Reportes**: ![Allure Report](https://img.shields.io/badge/-Allure%20Report-C21325?style=flat&logo=allure&logoColor=white)  ![Cucumber Report](https://img.shields.io/badge/-Cucumber%20Report-23D96C?style=flat&logo=cucumber&logoColor=white) ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 - **Pruebas Móviles**: ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=flat&logo=testflight&logoColor=white) ![Firebase App Distribution](https://img.shields.io/badge/-Firebase%20App%20Distribution-FFCA28?style=flat&logo=firebase&logoColor=black)
 ### Herramientas de Desarrollo
 
