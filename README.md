@@ -7,7 +7,8 @@
 
 ### Herramientas y Tecnologías
 
-- **Automatización Web**: ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+- **Automatización Web**: ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EF2D5E?style=flat&logo=webdriverio&logoColor=white)
+- **Automatización Móvil**: ![Appium](https://img.shields.io/badge/-Appium-9C27B0?style=flat&logo=appium&logoColor=white)
 - **Pruebas de Rendimiento**: ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white) ![K6](https://img.shields.io/badge/-K6-7D64FF?style=flat&logo=k6&logoColor=white)
 - **Automatización de API**: ![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-008CDD?style=flat&logo=java&logoColor=white) ![Karate](https://img.shields.io/badge/-Karate-DF0000?style=flat&logo=java&logoColor=white)
 - **Bases de Datos**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
